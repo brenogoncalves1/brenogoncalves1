@@ -56,7 +56,6 @@ Estou sempre evoluindo, em busca de novos aprendizados e desafios que me permita
 - Desenvolvimento e manutenção de APIs RESTful em .NET
 - Automatização de rotinas no SQL Server
 - Criação de rotinas para integração de sistemas
-- Organização e melhoria de sistemas legados
 
 ---
 
