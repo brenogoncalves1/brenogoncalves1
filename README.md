@@ -38,7 +38,6 @@ Estou sempre evoluindo, em busca de novos aprendizados e desafios que me permita
 - [🐣 Tamagotchi App](https://github.com/brenogoncalves1/Tamagotchi) — Mini game interativo desenvolvido em C# para praticar lógica de programação.
 - [🔐 API em C# com JWT](https://github.com/brenogoncalves1/API-EM-C-) — CRUD com autenticação JWT e organização em camadas.
 - [🧪 API simples com Node.js](https://github.com/brenogoncalves1/API_Node) — Projeto experimental para estudo de APIs com Node.js e Express.
-- 📊 Dashboard de Indicadores — Projeto interno da empresa para análise de KPIs (código fonte não disponível).
 
 ---
 
@@ -46,7 +45,6 @@ Estou sempre evoluindo, em busca de novos aprendizados e desafios que me permita
 
 - ASP.NET MVC com Identity
 - Boas práticas com Clean Code e SOLID
-- React JS (nível iniciante)
 - Padrões de projeto no .NET
 
 ---
